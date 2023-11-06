@@ -9,6 +9,7 @@ if (empty($_GET["id"])) {
     //eliminar por id
 } else {
     //mostrar productos y eliminar ahi
+    //si, aqui
 }
 ?>
 <div>
