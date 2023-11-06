@@ -18,7 +18,7 @@
     <a href="#">Modificar producto</a>
     </br>
     </br>
-    <a href="#">Eliminar producto</a>
+    <a href="./controllers/deleteProduct.php">Eliminar producto</a>
 </body>
 
 </html>
