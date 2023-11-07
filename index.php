@@ -13,12 +13,6 @@
     </br>
     </br>
     <a href="./views/listProducts.php">Consultar el listado de productos</a>
-    </br>
-    </br>
-    <a href="#">Modificar producto</a>
-    </br>
-    </br>
-    <a href="./controllers/deleteProduct.php">Eliminar producto</a>
 </body>
 
 </html>
